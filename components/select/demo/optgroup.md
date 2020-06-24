@@ -29,7 +29,7 @@ ReactDOM.render(
       <Option value="lucy">Lucy</Option>
     </OptGroup>
     <OptGroup label="Engineer">
-      <Option value="Yiminghe">yiminghe</Option>
+      
     </OptGroup>
   </Select>,
   mountNode,
